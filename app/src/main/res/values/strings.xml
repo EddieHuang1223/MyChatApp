@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+
+    <string name="loading">Loading…</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_name_fmt">User Name: %s</string>
+    <string name="create_nameid">Create Name</string>
+    <string name="chat_room">Chat Room</string>
+</resources>
